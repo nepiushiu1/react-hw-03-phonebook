@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-hw-03-phonebook.git/static/css/main.75285562.css",
-    "main.js": "/react-hw-03-phonebook.git/static/js/main.00125945.js",
-    "index.html": "/react-hw-03-phonebook.git/index.html",
-    "main.75285562.css.map": "/react-hw-03-phonebook.git/static/css/main.75285562.css.map",
-    "main.00125945.js.map": "/react-hw-03-phonebook.git/static/js/main.00125945.js.map"
+    "main.css": "/react-hw-03-phonebook/static/css/main.75285562.css",
+    "main.js": "/react-hw-03-phonebook/static/js/main.00125945.js",
+    "index.html": "/react-hw-03-phonebook/index.html",
+    "main.75285562.css.map": "/react-hw-03-phonebook/static/css/main.75285562.css.map",
+    "main.00125945.js.map": "/react-hw-03-phonebook/static/js/main.00125945.js.map"
   },
   "entrypoints": [
     "static/css/main.75285562.css",
